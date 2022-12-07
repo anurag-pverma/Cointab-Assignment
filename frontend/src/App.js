@@ -1,19 +1,14 @@
 
 import './App.css';
+import Navbar from './Components/Navbar';
 
 function App() {
   return (
     
     <div>
-      <div>
-      <form >
+        <Navbar/>
 
-        
-
-
-      </form>
-    
-      </div>
+        <h1>time is very less not able to solve in particular time </h1>
 
     </div>
   );
